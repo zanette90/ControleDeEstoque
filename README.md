@@ -23,14 +23,13 @@ Sequelize
 
 🔧 Instalação
 Clone o repositório:
-
-bash
 Copiar
 Editar
+
 git clone https://github.com/zanette90/ControleDeEstoque.git
+
 Instale as dependências:
 
-bash
 Copiar
 Editar
 npm install
@@ -41,5 +40,6 @@ Inicie o servidor:
 Copiar
 Editar
 npm start
-📫 Contato
+📫 Contato 
+http://linkedin.com/in/alanzanette
 Desenvolvido por zanette90.
